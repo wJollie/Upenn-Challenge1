@@ -14,16 +14,16 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* The text on the top left of the page that says Horiseon */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* The text on the top of the page that says Horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Navigation Links */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,25 +31,21 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Navigation Links */
 .header div ul {
     list-style-type: none;
 }
-
+/* Navigation Links */
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Navigation Links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
-p {
-    font-size: 16px;
-}
-
+/*Picture of all the people having a meeting*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,23 +54,27 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Description paragraphs */
+p {
+    font-size: 16px;
+}
+/* Search Engine Optimization Image */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* Social Media Marketing Image */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Website Information */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Stuff on the right of the screen*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -85,55 +85,55 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Lead Generation Section */
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Brand Awareness Section */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Cost Management Section */
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Lead Generation Header */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Brand Awareness Header */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Cost Management Header */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Lead Generation Image */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Brand Awareness Image */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Cost Management Image */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Search Engine Optimization Text */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +142,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Online Reputation Management Text */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +151,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Social Media Marketing Text */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,41 +160,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Search Engine Optimization Image */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* Online Reputation Management Image */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* Social Media Marketing Image */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Search Engine Optimization Header */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Online Reputation Management Header */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Social Media Marketing Header */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Bottom of the Page */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Bottom of the Page Header */
 .footer h2 {
     font-size: 20px;
 }
